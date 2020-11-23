@@ -13,6 +13,7 @@ In this repository, we will learn how to chose database for your project, like w
 * NoSQL databases are Horizontally Scalable using Sharding or more nodes
 * If you want to save your data as Document or Key-Value or Graph or Wide-column stores, then go for NoSQL Database
 * Benefits of NoSQL database
+
 ...* You can create documents without defining their structure
 ...* Each document can have it's own unique structure
 ...* You can add fields as you go
@@ -23,8 +24,10 @@ In this repository, we will learn how to chose database for your project, like w
 * While SHARDING can't be done on most SQL databases, it can be done on MY-SQL database
 * ORACLE is a professional, expensive database suitable for enterprise companies with large data needs
 * PostgreSQL is a hybrid SQL/NoSQL database systems.
+
 ...It is ORDBMS (Object Oriented Relational Database Management System)
 ...It has highest ACID compliance of all SQL databases
+
 * Cassandra benefits from "Masterless Design" means all of it's nodes are identical
 * Due to "Masterless Design" of Cassandra, users can read and write from all Casssandra nodes.
 * Cassandra's WRITE and READ are very fast where as UPDATE and DELETE are very slow in terms of performance
