@@ -13,9 +13,10 @@ In this repository, we will learn how to chose database for your project, like w
 * NoSQL databases are Horizontally Scalable using Sharding or more nodes
 * If you want to save your data as Document or Key-Value or Graph or Wide-column stores, then go for NoSQL Database
 * Benefits of NoSQL database
-  ** You can create documents without defining their structure
-  ** Each document can have it's own unique structure
-** You can add fields as you go
+  
+  You can create documents without defining their structure
+  Each document can have it's own unique structure
+  You can add fields as you go
 
 
 ## Some important points related to Databases
